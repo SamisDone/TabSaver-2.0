@@ -2,6 +2,9 @@
 
 TabSaver 2.0 is a premium, developer-focused Chrome extension designed to make browser session management effortless and beautiful. Built with a modern aesthetic and powerful utilities, it helps you save, search, and restore your tab sessions with ease.
 
+> [!NOTE]
+> Looking for the original version? Check out the [previous version of TabSaver](https://github.com/SamisDone/TabSaver).
+
 ## ✨ Features
 
 - **Visual Layouts**: Every session includes a visual thumbnail of your active tab, making it easier to identify your work at a glance.
